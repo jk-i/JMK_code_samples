@@ -2,6 +2,7 @@
 - C++ Nested Loops
 
         3 part C++ code: 
+        
         1. Unit Conversion
         2. Arithmetic
-        3. Image based on input
+        3. Output based on input
