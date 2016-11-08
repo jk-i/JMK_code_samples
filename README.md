@@ -9,4 +9,4 @@
 
         Purely Javascript Tile Matching Memory Game
         There are some minor issues, but the game is functional.
-        Web version: http://janemk.com/game/match.html
+        Web version: [http://janemk.com/game/match.html](http://janemk.com/game/match.html)
