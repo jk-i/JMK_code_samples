@@ -6,5 +6,6 @@
         2. Absolute difference
         3. Output based on input
 - game (folder)
-Purely Javascript Tile Matching Memory Game
-There are some minor issues, but the game is functional.
+
+        Purely Javascript Tile Matching Memory Game
+        There are some minor issues, but the game is functional.
